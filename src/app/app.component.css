@@ -1,0 +1,36 @@
+.table-cadastro {
+  border-spacing: 15px;
+  table-layout: fixed;
+  width: 100%;
+  border: 1px solid;
+}
+
+.container-center {
+  text-align: center;
+  border: 1px solid black;
+}
+.container {
+  width: 30%;
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+}
+.container-table {
+  width: 60%;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+}
+.container-buttons {
+  width: 30%;
+  display: flex;
+  justify-content: space-around;
+  margin: 0 auto;
+}
+button {
+  background-color: rgb(0, 68, 194);
+  text-align: center;
+  padding: 10px;
+  font-size: 12px;
+  color: white;
+}
